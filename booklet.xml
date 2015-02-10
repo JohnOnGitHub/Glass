@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <booklet>
     <page>
-        <image image = "https://raw.githubusercontent.com/IPHFgroup/Glass/master/page1.png"/>
-        <text text = "Let's start with the fuselage."/>
+        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/page1.png</image>
+        <text>Let's start with the fuselage.</text>
     </page>
     <page>
-        <image image = "https://raw.githubusercontent.com/IPHFgroup/Glass/master/page2.png"/>
-        <text text = "Add the engine."/>
+        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/page2.png"</image>
+        <text>Add the engine.</text>
     </page>
 </booklet>
