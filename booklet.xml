@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <booklet>
-    <pages>
-        <page>
-            <image image = "https://raw.githubusercontent.com/IPHFgroup/Glass/master/page1.png"/>
-            <text text = "Let's start with the fuselage."/>
-        </page>
-        <page>
-            <image image = "https://raw.githubusercontent.com/IPHFgroup/Glass/master/page2.png"/>
-            <text text = "Add the engine."/>
-        </page>
-    </pages>
+    <page>
+        <image image = "https://raw.githubusercontent.com/IPHFgroup/Glass/master/page1.png"/>
+        <text text = "Let's start with the fuselage."/>
+    </page>
+    <page>
+        <image image = "https://raw.githubusercontent.com/IPHFgroup/Glass/master/page2.png"/>
+        <text text = "Add the engine."/>
+    </page>
 </booklet>
