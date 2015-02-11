@@ -29,12 +29,16 @@
         <text>Finish the wings.</text>
     </page>
     <page>
-        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/page9.png</image>
+        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/page8.png</image>
         <text>Add the prop, windshield, and lights.</text>
     </page>
     <page>
+        <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/page9.png</image>
+        <text>Build the left float.</text>
+    </page>
+    <page>
         <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/page10.png</image>
-        <text>Build the left float and strut.</text>
+        <text>Finish the left float and strut.</text>
     </page>
     <page>
         <image>https://raw.githubusercontent.com/IPHFgroup/Glass/master/page11.png</image>
